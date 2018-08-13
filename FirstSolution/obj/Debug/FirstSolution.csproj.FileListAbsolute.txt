@@ -1,0 +1,17 @@
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\FirstSolution\FirstSolution\bin\Debug\FirstSample.sdf
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\FirstSolution\FirstSolution\bin\Debug\hibernate.cfg.xml
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\FirstSolution\FirstSolution\bin\Debug\FirstSolution.dll
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\FirstSolution\FirstSolution\bin\Debug\FirstSolution.pdb
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\FirstSolution\FirstSolution\bin\Debug\NHibernate.dll
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\FirstSolution\FirstSolution\bin\Debug\Iesi.Collections.dll
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\FirstSolution\FirstSolution\bin\Debug\log4net.dll
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\FirstSolution\FirstSolution\bin\Debug\Castle.Core.dll
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\FirstSolution\FirstSolution\bin\Debug\Castle.DynamicProxy2.dll
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\FirstSolution\FirstSolution\bin\Debug\NHibernate.xml
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\FirstSolution\FirstSolution\bin\Debug\Iesi.Collections.xml
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\FirstSolution\FirstSolution\bin\Debug\log4net.xml
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\FirstSolution\FirstSolution\bin\Debug\Castle.Core.xml
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\FirstSolution\FirstSolution\bin\Debug\Castle.DynamicProxy2.xml
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\FirstSolution\FirstSolution\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\FirstSolution\FirstSolution\obj\Debug\FirstSolution.dll
+C:\Users\han.sungyoup01\Documents\Visual Studio 2008\Projects\FirstSolution\FirstSolution\obj\Debug\FirstSolution.pdb
